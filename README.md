@@ -11,7 +11,8 @@
 
 - 💬 Ask me about **Golang, Java, Angular, Typescript, Bootstrap, Css, HTML, PrimeNg,Spring Boot**
 
-- 📫 How to reach me [Mail](https://mail.google.com/mail/u/tyagivikalp99@gmail.com/#compose)
+- 📫 How to reach me [Mail](mailto:tyagivikalp99@gmail.com
+- )
 
 - 📄 Know about my experiences [Linkedin](www.linkedin.com/in/vikalptyagi)
 
