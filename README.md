@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Golang, Graphql(gqlgen), Postgres, Unit testing with mockgen**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VikalpTyagi](https://github.com/VikalpTyagi)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/VikalpTyagi)
 
 - 💬 Ask me about **Golang, Java, Angular, Typescript, Bootstrap, Css, HTML, PrimeNg,Spring Boot**
 
 - 📫 How to reach me **tyagivikalp99@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/VikalpTyagi](https://github.com/VikalpTyagi)
+- 📄 Know about my experiences [Linkedin](www.linkedin.com/in/vikalptyagi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
