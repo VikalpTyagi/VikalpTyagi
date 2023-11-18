@@ -12,7 +12,7 @@
 - 💬 Ask me about **Golang, Java, Angular, Typescript, Bootstrap, Css, HTML, PrimeNg,Spring Boot**
 
 - 📫 How to reach me: [Mail](mailto:tyagivikalp99@gmail.com)
-- 📫 How to reach me: <a href="mailto:your.email@example.com">Email</a>
+- 📫 How to reach me: <a href="mailto:tyagivikalp99@gmail.com">Email</a>
 
 - 📄 Know about my experiences [Linkedin](www.linkedin.com/in/vikalptyagi)
 
