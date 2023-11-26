@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Vikalp Tyagi from India<br><br>- 🔭 I’m working as Golang backend developer<br>- 📚 I'm currently learning GOlang, unit testing, Docker<br>- ⚡ In my free time I spend time with family and friends</p>
+<p align="left">I'm Vikalp Tyagi from India<br><br>- 🔭 I’m working as Golang backend developer<br>- 📚 I'm currently learning GOlang, unit testing, Docker<br>- ⚡ In my free time I like to work on my own project and read novels</p>
 
 ###
 
